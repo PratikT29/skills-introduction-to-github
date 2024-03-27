@@ -25,6 +25,12 @@ _Get started using GitHub in less than an hour._
 
 _Welcome to "Introduction to GitHub"! :wave:_
 
+
+- **Who is this for**: New developers, new GitHub users and students.
+- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
+- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
+- **How long**: This course takes less than one hour to complete.
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
